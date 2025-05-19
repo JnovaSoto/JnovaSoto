@@ -37,6 +37,7 @@
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> 
  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="32" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+    <img width="32px" src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-zjxns1zh.png" />
 </h3>
 
 #### 🖥️ Frameworks
