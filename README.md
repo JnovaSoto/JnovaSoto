@@ -37,16 +37,18 @@
  <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> 
  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="32" />
   <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-    <img width="32px" src="https://static-00.iconduck.com/assets.00/php-icon-2048x2048-zjxns1zh.png" />
+    <img width="32px" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Php-logo.png" />
 </h3>
 
 #### 🖥️ Frameworks
 
 <p>
   <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-  <img width ='32px' src ='https://static-00.iconduck.com/assets.00/spring-icon-2048x2045-yufnoc34.png'>
-   <img width ='32px' src ='https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png'>
-    <img width ='32px' height="32px" src ='https://image.pngaaa.com/350/4796350-middle.png'>
+  <img width ='32px' src ='https://www.svgrepo.com/show/354380/spring-icon.svg'>
+   <img width ='32px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s'>
+   <img width ='32px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTm1wUcxb4luGEV4Xb9kBarWa4IBog9x4Wxw&s'>
+    <img width ='32px' src ='https://avatars.githubusercontent.com/u/45949248?v=4'>
+   <img width ='32px' src ='https://cdn.worldvectorlogo.com/logos/expressjs.svg'>
 </p>
  
 
