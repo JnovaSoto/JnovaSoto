@@ -11,6 +11,12 @@
 </p>
 
 <div align="center">
+  <a href="https://jnovasoto.github.io/CV-Juan-David-Nova-Soto" target="_blank">
+    <img width="50px" src="https://cdn-icons-png.flaticon.com/512/6588/6588143.png" alt="CV"/>
+  </a>
+</div>
+<br>
+<div align="center">
   <a href="https://www.linkedin.com/in/juan-david-nova-soto/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
