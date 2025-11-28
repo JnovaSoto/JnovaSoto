@@ -83,7 +83,7 @@
 ### 💳 GitHub Profile Summary
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnovaSoto&layout=compact&theme=darcula&hide_border=true&bg_color=00000000&langs_count=6" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnovaSoto&layout=compact&theme=darcula&hide_border=true&bg_color=00000000&langs_count=6&exclude_lang=HTML" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=JnovaSoto&theme=darcula&hide_border=true&background=FFFFFF00" />
 </div>
 
